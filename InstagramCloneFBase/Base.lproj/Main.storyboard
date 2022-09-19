@@ -164,7 +164,7 @@
         <!--Tab Bar Controller-->
         <scene sceneID="XYw-RN-ka1">
             <objects>
-                <tabBarController id="GoV-6S-rlr" sceneMemberID="viewController">
+                <tabBarController storyboardIdentifier="tabBar" id="GoV-6S-rlr" sceneMemberID="viewController">
                     <navigationItem key="navigationItem" id="7C4-aR-oD2"/>
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="its-qP-FMk">
                         <rect key="frame" x="0.0" y="0.0" width="390" height="49"/>
